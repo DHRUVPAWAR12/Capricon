@@ -1,2 +1,2 @@
-# Capricon
+# Capricorn
 Word-Press theme
